@@ -1,0 +1,21 @@
+{
+  "name": "MOBICURE - Cybersecurity Command Center",
+  "short_name": "MOBICURE",
+  "description": "Advanced cybersecurity monitoring and threat detection platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffe7",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
